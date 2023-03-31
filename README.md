@@ -2,5 +2,5 @@
 
  Flutter project.
 
-## Getting Started![quizapp](https://user-images.githubusercontent.com/81501510/227718616-cb94d8cd-b0e6-4558-9006-245ce417579b.png)
 
+![quiz](https://user-images.githubusercontent.com/81501510/229100651-dab96089-8fc3-47d2-a0e0-996352791cdf.png)
